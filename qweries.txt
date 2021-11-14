@@ -1,0 +1,10 @@
+classmate(paul,thomas).
+classmate(kamana,hirwa).
+teach_same_student(matayo,alice).
+teach_same_student(tam,evan).
+teach_in_same_room(anna,onesphore).
+teach_in_same_room(matayo,teres).
+share_course(manase,yvan).
+share_course(thomas,kamana).
+teach_in_same_school(alice,teres).
+teach_in_same_school(matayo,teres).

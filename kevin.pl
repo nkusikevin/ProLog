@@ -1,6 +1,6 @@
 %facts
 %Author_Name:NKUSI Kevin
-%REGnum:220001463
+%REGnum:220002919
 %ProgramName: prolog program to find fact ,rules and Queries 
 %Description: This is simple prolog program to find fact ,rules and Queries 
 %CreatedOn:November/14/2021
